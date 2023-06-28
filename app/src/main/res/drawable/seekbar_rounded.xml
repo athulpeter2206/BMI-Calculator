@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="10dp" /> <!-- Adjust the radius value to control the roundness of the SeekBar -->
+    <solid android:color="#242526" /> <!-- Replace "your_color" with your desired color or reference -->
+</shape>
